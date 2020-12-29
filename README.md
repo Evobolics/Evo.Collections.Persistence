@@ -1,2 +1,2 @@
-# Evo.Persistence
-A data library used to persist data to a data store.
+# Evo.Collections.Persistence
+A data library used to persist objects of various types a data store.
