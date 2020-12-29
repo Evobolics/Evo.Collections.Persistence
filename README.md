@@ -1,5 +1,5 @@
 # Evo.Collections.Persistence
-A data library used to persist objects of various types a data store.
+A data library used to persist objects of various types a data store.  It has been choosen that this library extend off of the collections namespace due to the fact that the library is focused about adding and removing items of a particular type to a perticular persistent collection / store / container.
 
 Provides a framework to:
 
